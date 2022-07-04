@@ -21,8 +21,8 @@ module.exports = {
   defaultNetwork: "rinkeby",
   networks: {
     rinkeby: {
-      url: "https://eth-rinkeby.alchemyapi.io/v2/oyvofwrG_DhEiwO6E9YeGz7ZlNJHNuSa",
-      accounts: ['cc98a8f2a785f40b3dbff48b98055d2b9a20bc9ff6d7225417afccd7ff142357'],
+      url: 'https://eth-rinkeby.alchemyapi.io/v2/oyvofwrG_DhEiwO6E9YeGz7ZlNJHNuSa',
+      accounts: [PrivateKey],
     }
   },
   paths:{
