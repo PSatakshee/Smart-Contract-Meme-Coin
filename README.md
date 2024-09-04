@@ -1,2 +1,2 @@
 # Smart Contract- Meme Coin
- It is a smart contract created to transfer coins, burn extra supply, and mint more if we needed to. The front-end is written in React and using Ethers.js.
+This project is a complete solution for managing a token on the Ethereum blockchain. It includes a smart contract written in Solidity for transferring tokens, burning excess supply, and minting new tokens as needed. The front-end is developed using React and integrates with the Ethereum blockchain using Ethers.js.
