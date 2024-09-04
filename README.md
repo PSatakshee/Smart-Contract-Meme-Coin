@@ -1,5 +1,7 @@
-# Smart Contract- Meme Coin
+# Smart Contract- Meme Coin 🦊🪙
+
 This project is a complete solution for managing a token on the Ethereum blockchain. It includes a smart contract written in Solidity for transferring tokens, burning excess supply, and minting new tokens as needed. The front-end is developed using React and integrates with the Ethereum blockchain using Ethers.js.
+
 
 ## Output
 
@@ -19,6 +21,8 @@ Once the wallet is connected, the application displays the user's wallet address
 After initiating a token transfer, the application shows a token address and the amount transferred. The transaction details are also recorded on the blockchain.
 
 ![Token Transferred](https://github.com/PSatakshee/Smart-Contract-Meme-Coin/blob/main/Output/Tokens%20transfered.jpeg)
+
+
 
 ## ⚠️ Important Update:
 
