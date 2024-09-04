@@ -7,7 +7,7 @@ Below are some screenshots and outputs from the project to give you an idea of h
 
 ### 1. Initial Screen
 
-![Initial Screen](./Output/Initial screen.png)
+![Initial Screen](https://github.com/PSatakshee/Smart-Contract-Meme-Coin/blob/main/Output/Initial%20screen.jpeg)
 
 The initial screen is displayed when the application loads. It prompts the user to connect their MetaMask wallet to interact with the DApp.
 
